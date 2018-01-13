@@ -56,4 +56,4 @@ Example:
     require "sixarm_ruby_google_maps_api"
     google_maps_api_key = "EXAMPLE"
     address = "1 Main Street, San Francisco, CA, 94111, US"
-    latitude, longitude = Google::Maps::API::Geocode::parse_address_to_latitude_longitude(google_maps_api_key, address)
+    lat, lng = Google::Maps::API::Geocode::address_to_lat_lng(google_maps_api_key, address)
