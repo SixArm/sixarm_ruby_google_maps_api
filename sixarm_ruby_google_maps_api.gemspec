@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.name           = "sixarm_ruby_google_maps_api"
   s.summary        = "SixArm.com → Ruby → Google Maps API geocode"
   s.description    = "Use the Google Maps API to geocode an address to a latitude and longitude"
-  s.version        = "1.0.0"
+  s.version        = "1.2.1"
 
   s.author         = "SixArm"
   s.email          = "sixarm@sixarm.com"
