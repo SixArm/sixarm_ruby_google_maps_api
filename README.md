@@ -6,7 +6,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/sixarm_ruby_google_maps_api.svg)](http://badge.fury.io/rb/sixarm_ruby_google_maps_api)
 [![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_google_maps_api.png)](https://travis-ci.org/SixArm/sixarm_ruby_google_maps_api)
-[![Code Climate Maintainability](https://api.codeclimate.com/v1/badges/$id/maintainability)](https://codeclimate.com/github/SixArm/$dir/maintainability)
+[![Code Climate Maintainability](https://api.codeclimate.com/v1/badges/eb813571fc864645b708/maintainability)](https://codeclimate.com/github/SixArm/sixarm_ruby_google_maps_api/maintainability)
 [![Coverage Status](https://coveralls.io/repos/SixArm/sixarm_ruby_google_maps_api/badge.svg?branch=master&service=github)](https://coveralls.io/github/SixArm/sixarm_ruby_google_maps_api?branch=master)
 ude
 * Git: <https://github.com/sixarm/sixarm_ruby_google_maps_api>
