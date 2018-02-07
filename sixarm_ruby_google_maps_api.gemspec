@@ -39,4 +39,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency('coveralls', '>= 0.8.2', '< 2')
   s.add_development_dependency('faker', '>= 1.8.7', '< 2')
 
+  s.required_ruby_version = ">= 2.2"
+
 end
