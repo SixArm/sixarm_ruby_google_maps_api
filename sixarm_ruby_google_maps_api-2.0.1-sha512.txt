@@ -1,0 +1,1 @@
+e40afa4d63445cf915246d70926ac79a13ef3cca467bc403b065fa1cf247f5cb63cfe1e9091df00db6e2d7710cf0a56c89f255dd4f6bc4e966a862c151f85cf7  sixarm_ruby_google_maps_api-2.0.1.gem

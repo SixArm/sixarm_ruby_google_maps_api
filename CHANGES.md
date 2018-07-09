@@ -1,6 +1,7 @@
 # Changes
 
-* 2018-02-05 1.2.1 Update SimpleCov syntax
+* 2018-07-08 2.0.1 Fix CGI.escape
+* 2018-06-22 2.0.0 Update to Ruby 2.5, testing gems, etc.
 * 2017-08-13 1.2.0 Optimize speed by providing multiple strategies
 * 2017-08-10 1.1.3 Update to Ruby 2.4, spdx licenses, rake test, etc.
 * 2015-07-20 1.1.2 Improve quality assurance

@@ -6,10 +6,9 @@
 
 [![Gem Version](https://badge.fury.io/rb/sixarm_ruby_google_maps_api.svg)](http://badge.fury.io/rb/sixarm_ruby_google_maps_api)
 [![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_google_maps_api.png)](https://travis-ci.org/SixArm/sixarm_ruby_google_maps_api)
-[![Code Climate Maintainability](https://api.codeclimate.com/v1/badges/eb813571fc864645b708/maintainability)](https://codeclimate.com/github/SixArm/sixarm_ruby_google_maps_api/maintainability)
-[![Coverage Status](https://coveralls.io/repos/SixArm/sixarm_ruby_google_maps_api/badge.svg?branch=master&service=github)](https://coveralls.io/github/SixArm/sixarm_ruby_google_maps_api?branch=master)
-ude
-* Git: <https://github.com/sixarm/sixarm_ruby_google_maps_api>
+[![Code Climate](https://api.codeclimate.com/v1/badges/eb813571fc864645b708/maintanability)](https://codeclimate.com/github/SixArm/sixarm_ruby_google_maps_api/maintainability)
+
+* Git: <https://github.com/SixArm/sixarm_ruby_google_maps_api>
 * Doc: <http://sixarm.com/sixarm_ruby_google_maps_api/doc>
 * Gem: <https://rubygems.org/gems/sixarm_ruby_google_maps_api>
 * Contact: Joel Parker Henderson, <joel@sixarm.com>
@@ -32,17 +31,19 @@ Want to help? We're happy to get pull requests.
 
 ### Gem
 
-Run this command in your shell or terminal:
+To install this gem in your shell or terminal:
 
-gem install sixarm_ruby_google_maps_api
+    gem install sixarm_ruby_google_maps_api
 
-Or add this to your Gemfile:
+### Gemfile
+
+To add this gem to your Gemfile:
 
     gem 'sixarm_ruby_google_maps_api'
 
 ### Require
 
-To require this gem in your code:
+To require the gem in your code:
 
     require 'sixarm_ruby_google_maps_api'
 

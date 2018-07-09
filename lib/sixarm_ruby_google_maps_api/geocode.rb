@@ -19,7 +19,7 @@ module Google; module Maps; module API; module Geocode
   ## Helpers
 
   def self.address_to_uri(google_maps_api_key, address)
-    return URI.parse("https://maps.googleapis.com/maps/api/geocode/json?key=#{URI.escape(google_maps_api_key)}&address=#{URI.escape(address)}")
+    return URI.parse("https://maps.googleapis.com/maps/api/geocode/json?key=#{CGI.escape(google_maps_api_key)}&address=#{CGI.escape(address)}")
   end
 
   def self.result_to_lat_lng(result)
